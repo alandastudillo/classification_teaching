@@ -1,2 +1,2 @@
-# classification_teaching
+# Classification Model Teaching
 Classification model examples.
